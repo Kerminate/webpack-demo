@@ -1,3 +1,3 @@
-function a () {
+function b() {
   window.alert(1)
 }
